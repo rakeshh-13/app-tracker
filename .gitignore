@@ -1,0 +1,13 @@
+# Eclipse
+Servers/
+bin/
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Logs
+*.log
+
